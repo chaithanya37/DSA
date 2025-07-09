@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chaithanya37/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/chaithanya37/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
 |  |
@@ -25,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/chaithanya37/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Binary Search
+|  |
+| ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chaithanya37/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chaithanya37/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+## Sorting
+|  |
+| ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chaithanya37/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 <!---LeetCode Topics End-->
