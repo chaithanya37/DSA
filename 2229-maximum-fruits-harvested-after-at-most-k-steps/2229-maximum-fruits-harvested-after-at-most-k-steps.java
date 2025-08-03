@@ -1,38 +1,36 @@
 class Solution {
     public int maxTotalFruits(int[][] fruits, int startPos, int k) {
         int n = fruits.length;
-        if (n == 0) {
-            return 0;
+        int left = lowerBound(fruits, startPos - k);
+
+        int right = left;
+        int sum = 0;
+        for(; right < n && fruits[right][0] <= startPos; right++) {
+            sum += fruits[right][1];
         }
+        int ans = sum;
 
-        int[] positions = new int[n];
-        long[] prefixSum = new long[n + 1];
-        for (int i = 0; i < n; i++) {
-            positions[i] = fruits[i][0];
-            prefixSum[i + 1] = prefixSum[i] + fruits[i][1];
-        }
-
-        long maxFruits = 0;
-        int left = 0;
-        for (int right = 0; right < n; right++) {
-            long posL = positions[left];
-            long posR = positions[right];
-
-            long cost = (posR - posL) + Math.min(Math.abs(startPos - posL), Math.abs(startPos - posR));
-
-            while (left <= right && cost > k) {
+        for( ; right < n && fruits[right][0] <= startPos + k; right++) {
+            sum += fruits[right][1];
+            while((fruits[right][0] - startPos + fruits[right][0] - fruits[left][0]) > k && (startPos - fruits[left][0] + fruits[right][0] - fruits[left][0]) > k) {
+                sum -= fruits[left][1];
                 left++;
-                if (left > right) break;
-                posL = positions[left];
-                cost = (posR - posL) + Math.min(Math.abs(startPos - posL), Math.abs(startPos - posR));
             }
+            ans = Math.max(ans, sum);
+        }
+        return ans;
+    }
 
-            if (left <= right) {
-                long currentFruits = prefixSum[right + 1] - prefixSum[left];
-                maxFruits = Math.max(maxFruits, currentFruits);
+    private int lowerBound(int[][] arr, int target) {
+        int l = 0, r = arr.length;
+        while (l < r) {
+            int mid = l + (r - l) / 2;
+            if (arr[mid][0] < target) {
+                l = mid + 1;
+            } else {
+                r = mid;
             }
         }
-
-        return (int) maxFruits;
+        return l;
     }
 }
