@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaithanya37/DSA/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/chaithanya37/DSA/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/chaithanya37/DSA/tree/master/0826-soup-servings) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaithanya37/DSA/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/chaithanya37/DSA/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/chaithanya37/DSA/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/chaithanya37/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chaithanya37/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/chaithanya37/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
