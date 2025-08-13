@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaithanya37/DSA/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/chaithanya37/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/chaithanya37/DSA/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/chaithanya37/DSA/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/chaithanya37/DSA/tree/master/0900-reordered-power-of-2) |
 ## Recursion
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaithanya37/DSA/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/chaithanya37/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/chaithanya37/DSA/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
