@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/chaithanya37/DSA/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/chaithanya37/DSA/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/chaithanya37/DSA/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/chaithanya37/DSA/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/chaithanya37/DSA/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chaithanya37/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/chaithanya37/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/chaithanya37/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
