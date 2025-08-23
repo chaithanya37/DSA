@@ -1,38 +1,112 @@
 class Solution {
-    private int helper(int[][] grid,int n,int m){
-        int ans=m*n;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                ans=Math.min(ans,calc(grid,0,i,0,j)+calc(grid,0,i,j+1,m-1)+calc(grid,i+1,n-1,0,m-1));
-                ans=Math.min(ans,calc(grid,0,i,0,m-1)+calc(grid,i+1,n-1,0,j)+calc(grid,i+1,n-1,j+1,m-1));
-            }
-        }
-        for(int i=0;i+2<n;i++) for(int j=i+1;j+1<n;j++) ans=Math.min(ans,calc(grid,0,i,0,m-1) +calc(grid,i+1,j,0,m-1)+calc(grid,j+1,n-1,0,m-1));
-        return ans;
-    }
     public int minimumSum(int[][] grid) {
-        int n=grid.length,m=grid[0].length;
-        int[][] rgrid=rev(grid,n,m);
-        return Math.min(helper(grid,n,m),helper(rgrid,m,n));
+        return Math.min(f(grid), f(rotate(grid)));
     }
-    private int calc(int[][] grid,int u,int d,int l,int r) {
-        int n=grid.length,m=grid[0].length;
-        int lMax=0,lMin=n,bMax=0,bMin=m;
-        for(int i=u;i<=d;i++){
-            for(int j=l;j<=r;j++){
-                if(grid[i][j]==1){
-                    lMax=Math.max(i+1,lMax);
-                    lMin=Math.min(i+1,lMin);
-                    bMax=Math.max(j+1,bMax);
-                    bMin=Math.min(j+1,bMin);
+
+    private int f(int[][] a) {
+        int m = a.length;
+        int n = a[0].length;
+        int[][] lr = new int[m][2];
+        for (int i = 0; i < m; i++) {
+            int l = -1;
+            int r = 0;
+            for (int j = 0; j < n; j++) {
+                if (a[i][j] > 0) {
+                    if (l < 0) {
+                        l = j;
+                    }
+                    r = j;
+                }
+            }
+            lr[i][0] = l;
+            lr[i][1] = r;
+        }
+
+        int[][] lt = minimumArea(a);
+        a = rotate(a);
+        int[][] lb = rotate(rotate(rotate(minimumArea(a))));
+        a = rotate(a);
+        int[][] rb = rotate(rotate(minimumArea(a)));
+        a = rotate(a);
+        int[][] rt = rotate(minimumArea(a));
+
+        int ans = Integer.MAX_VALUE;
+        if (m >= 3) {
+            for (int i = 1; i < m; i++) {
+                int left = n;
+                int right = 0;
+                int top = m;
+                int bottom = 0;
+                for (int j = i + 1; j < m; j++) {
+                    int l = lr[j - 1][0];
+                    if (l >= 0) {
+                        left = Math.min(left, l);
+                        right = Math.max(right, lr[j - 1][1]);
+                        top = Math.min(top, j - 1);
+                        bottom = j - 1;
+                    }
+                    ans = Math.min(ans, lt[i][n] + (right - left + 1) * (bottom - top + 1) + lb[j][n]);
                 }
             }
         }
-        return lMin<=lMax?(lMax-lMin+1)*(bMax-bMin+1):Integer.MAX_VALUE/10;
-    }
-    private int[][] rev(int[][] grid,int n,int m){
-        int[][] ans=new int[m][n];
-        for(int i=0;i<n;i++) for(int j=0;j<m;j++) ans[m-j-1][i]=grid[i][j];
+
+        if (m >= 2 && n >= 2) {
+            for (int i = 1; i < m; i++) {
+                for (int j = 1; j < n; j++) {
+                    ans = Math.min(ans, lt[i][n] + lb[i][j] + rb[i][j]);
+                    ans = Math.min(ans, lt[i][j] + rt[i][j] + lb[i][n]);
+                }
+            }
+        }
         return ans;
+    }
+
+    private int[][] minimumArea(int[][] a) {
+        int m = a.length;
+        int n = a[0].length;
+        int[][] f = new int[m + 1][n + 1];
+        int[][] border = new int[n][3];
+        for (int j = 0; j < n; j++) {
+            border[j][0] = -1;
+        }
+        for (int i = 0; i < m; i++) {
+            int left = -1;
+            int right = 0;
+            for (int j = 0; j < n; j++) {
+                if (a[i][j] == 1) {
+                    if (left < 0) {
+                        left = j;
+                    }
+                    right = j;
+                }
+                int[] preB = border[j];
+                if (left < 0) { 
+                    f[i + 1][j + 1] = f[i][j + 1]; 
+                } else if (preB[0] < 0) {
+                    f[i + 1][j + 1] = right - left + 1;
+                    border[j][0] = i;
+                    border[j][1] = left;
+                    border[j][2] = right;
+                } else {
+                    int l = Math.min(preB[1], left);
+                    int r = Math.max(preB[2], right);
+                    f[i + 1][j + 1] = (r - l + 1) * (i - preB[0] + 1);
+                    border[j][1] = l;
+                    border[j][2] = r;
+                }
+            }
+        }
+        return f;
+    }
+    private int[][] rotate(int[][] a) {
+        int m = a.length;
+        int n = a[0].length;
+        int[][] b = new int[n][m];
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                b[j][m - 1 - i] = a[i][j];
+            }
+        }
+        return b;
     }
 }
