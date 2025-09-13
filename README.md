@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/chaithanya37/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/chaithanya37/DSA/tree/master/2479-meeting-rooms-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/chaithanya37/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/chaithanya37/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/chaithanya37/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/chaithanya37/DSA/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/chaithanya37/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/chaithanya37/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/chaithanya37/DSA/tree/master/0900-reordered-power-of-2) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/chaithanya37/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Monotonic Stack
 |  |
 | ------- |
