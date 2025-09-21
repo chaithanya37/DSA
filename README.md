@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/chaithanya37/DSA/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chaithanya37/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/chaithanya37/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/chaithanya37/DSA/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/chaithanya37/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chaithanya37/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/chaithanya37/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/chaithanya37/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/chaithanya37/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/chaithanya37/DSA/tree/master/1813-maximum-erasure-value) |
+| [2023-design-movie-rental-system](https://github.com/chaithanya37/DSA/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/chaithanya37/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/chaithanya37/DSA/tree/master/2479-meeting-rooms-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/chaithanya37/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/chaithanya37/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/chaithanya37/DSA/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/chaithanya37/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/chaithanya37/DSA/tree/master/2479-meeting-rooms-iii) |
 ## Simulation
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/chaithanya37/DSA/tree/master/2023-design-movie-rental-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/chaithanya37/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/chaithanya37/DSA/tree/master/3827-implement-router) |
 ## Matrix
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/chaithanya37/DSA/tree/master/2023-design-movie-rental-system) |
 | [3797-design-spreadsheet](https://github.com/chaithanya37/DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/chaithanya37/DSA/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
