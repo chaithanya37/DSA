@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chaithanya37/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/chaithanya37/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/chaithanya37/DSA/tree/master/2529-range-product-queries-of-powers) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/chaithanya37/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/chaithanya37/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chaithanya37/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chaithanya37/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/chaithanya37/DSA/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/chaithanya37/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/chaithanya37/DSA/tree/master/2479-meeting-rooms-iii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/chaithanya37/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/chaithanya37/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/chaithanya37/DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/chaithanya37/DSA/tree/master/3827-implement-router) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/chaithanya37/DSA/tree/master/0900-reordered-power-of-2) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/chaithanya37/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/chaithanya37/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Monotonic Stack
 |  |
