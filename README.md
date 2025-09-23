@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaithanya37/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0165-compare-version-numbers](https://github.com/chaithanya37/DSA/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/chaithanya37/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/chaithanya37/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chaithanya37/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/chaithanya37/DSA/tree/master/0165-compare-version-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/chaithanya37/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Depth-First Search
 |  |
