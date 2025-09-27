@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/chaithanya37/DSA/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/chaithanya37/DSA/tree/master/0118-pascals-triangle) |
 | [0498-diagonal-traverse](https://github.com/chaithanya37/DSA/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/chaithanya37/DSA/tree/master/0611-valid-triangle-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/chaithanya37/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/chaithanya37/DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/chaithanya37/DSA/tree/master/1006-vowel-spellchecker) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/chaithanya37/DSA/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/chaithanya37/DSA/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chaithanya37/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/chaithanya37/DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/chaithanya37/DSA/tree/master/0611-valid-triangle-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chaithanya37/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/chaithanya37/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/chaithanya37/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/chaithanya37/DSA/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/chaithanya37/DSA/tree/master/0900-reordered-power-of-2) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chaithanya37/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/chaithanya37/DSA/tree/master/2479-meeting-rooms-iii) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/chaithanya37/DSA/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/chaithanya37/DSA/tree/master/0611-valid-triangle-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/chaithanya37/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Depth-First Search
 |  |
