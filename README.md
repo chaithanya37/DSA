@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/chaithanya37/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chaithanya37/DSA/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/chaithanya37/DSA/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/chaithanya37/DSA/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/chaithanya37/DSA/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chaithanya37/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/chaithanya37/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/chaithanya37/DSA/tree/master/0118-pascals-triangle) |
 | [0498-diagonal-traverse](https://github.com/chaithanya37/DSA/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/chaithanya37/DSA/tree/master/0611-valid-triangle-number) |
+| [0830-largest-triangle-area](https://github.com/chaithanya37/DSA/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/chaithanya37/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/chaithanya37/DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/chaithanya37/DSA/tree/master/1006-vowel-spellchecker) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/chaithanya37/DSA/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chaithanya37/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chaithanya37/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Queue
