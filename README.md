@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/chaithanya37/DSA/tree/master/0900-reordered-power-of-2) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/chaithanya37/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chaithanya37/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/chaithanya37/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chaithanya37/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/chaithanya37/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chaithanya37/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chaithanya37/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/chaithanya37/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/chaithanya37/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/chaithanya37/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/chaithanya37/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/chaithanya37/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/chaithanya37/DSA/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chaithanya37/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/chaithanya37/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/chaithanya37/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
 |  |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/chaithanya37/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/chaithanya37/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/chaithanya37/DSA/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/chaithanya37/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
 |  |
 | ------- |
